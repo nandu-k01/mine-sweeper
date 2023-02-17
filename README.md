@@ -2,7 +2,11 @@
 
 ## Overview
 Minesweeper Game based on OOPs concept. Used the following for 
-<a href="https://youtu.be/OqbGRZx4xUc">Reference</a>
+<a href="https://youtu.be/OqbGRZx4xUc">Reference</a>.
+<P>
+Right click to select the cell, and Left click to mark the cell
+</P>
+
 
 ## Built With
 
