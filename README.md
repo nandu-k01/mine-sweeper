@@ -20,7 +20,9 @@ $ cd mine-sweeper
 # Run the app
 $ python main.py
 ```
-
+![](https://raw.github.com/nandu-k01/mine-sweeper/master/Screenshot_20230217_172747.png)
+![](https://raw.github.com/nandu-k01/mine-sweeper/master/Screenshot_20230217_172803.png)
+![](https://raw.github.com/nandu-k01/mine-sweeper/master/Screenshot_20230217_172827.png)
 
 [python.org]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 [python-url]: https://www.python.org/
